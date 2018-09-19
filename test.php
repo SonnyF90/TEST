@@ -61,5 +61,6 @@ $perso1->getForce();
 $perso2 = new Personnage(Personnage::FORCE_MOYENNE);
 $perso3 = new Personnage(Personnage::FORCE_MOYENNE);
 
+/*Ceci est un test*/
 
 ?>
